@@ -1,0 +1,10 @@
+logins
+===========
+admin-fitlife
+
+HZUZqBIA7inb0bRx5m
+--------------------------------
+
+created the wordpress theme and created plugin, customised woocommerce in functions, added security tasks, not done shopify
+
+https://github.com/sreerag690sk-ai/fitlife-pro-assessment-sreerag.git
